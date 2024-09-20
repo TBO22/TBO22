@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Talha Bin Omar <iframe src="https://giphy.com/embed/S2IfEQqgWc0AH4r6Al" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/minions-despicableme-despicableme4-despicablememovie-S2IfEQqgWc0AH4r6Al">via GIPHY</a></p></h1>
+<h1 align="center">Hi , I'm Talha Bin Omar  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Science+Student;BSDS+Third+Sem+At+Air+University;Exploring+Web+Scraping+And+ML;Always+learning+new+things"></a>
 </p>
@@ -6,7 +6,7 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0047AB&style=plastic?" alt="Profile views" height=25px, width=160px/> 
+	<img src="https://komarev.com/ghpvc/?username=TBO22&label=Profile%20views&color=0047AB&style=plastic?" alt="Profile views" height=25px, width=160px/> 
 </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
