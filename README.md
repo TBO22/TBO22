@@ -32,7 +32,7 @@
 <p align="center">
 	<a href="mailto:talhabinomar9991@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/TBO22"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/talha-bin-omar-864940246/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/talha-bin-omar-864940246/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ## 🛠️ My Skills
@@ -79,7 +79,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight_duo" alt="GitHub Streak" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TBO22&theme=tokyonight_duo" alt="GitHub Streak" /></p>
 
 </details>
 
