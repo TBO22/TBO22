@@ -1,7 +1,11 @@
-<h1 align="center">Hi , I'm Talha Bin Omar  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Hi, I'm Talha Bin Omar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Science+Student;BSDS+Third+Sem+At+Air+University;Exploring+Web+Scraping+And+ML;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Science+Undergrad+@+Air+University;4th+Semester+BSDS+Student;Exploring+ML%2C+FastAPI%2C+and+Embeddings;🫧+Passionate+about+Clean+Code+and+Clean+Data+📈;Always+learning+new+things...">
+  </a>
 </p>
+
 
 <br>
 
@@ -15,11 +19,12 @@
 
 <br><br>
 
-- :school: I am a `Data Science` student in my `Second Year` at Air University Islamabad.
-- :technologist: I enjoy solving problems using technology, realted to `Data Science` and `Web Scraping`.
-- :computer: I am exploring `D3.js` and have worked on `Choropleth Maps` for visualizing board game ratings.
+- :school: I am a `Data Science` student in my `Third Year` at Air University Islamabad.
+- :technologist: I enjoy solving problems using technology, related to Data Science, Web Scraping, and APIs.
+- :computer: Built Vibify, a AI based music recommendation platform using FastAPI, OpenAI Embeddings, and Pinecone Vector DB.
+- :musical_note: Written a script in python to scrape spotify preview urls.
 - :nerd_face: I am passionate about learning new technologies and improving my programming skills.
-- :books: Currently expanding my knowledge in `Python`, `C++`, and `SQL`.
+- :books: Currently expanding my knowledge in `R` and `Python`.
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Profiles
@@ -47,6 +52,10 @@
   &emsp;
   <a href="https://www.python.org" target="_blank"> 
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://www.r-project.org/" target="_blank"> 
+    <img alt="R" src="https://img.shields.io/badge/R%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a> 
 </p>
 
