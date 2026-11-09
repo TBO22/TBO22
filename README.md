@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  AI Engineer • Speech AI • LLMs • Model Optimization
+  AI Engineer • Open Source Contributor • Speech AI • LLMs • Model Optimization
 </h3>
 
 <p align="center">
@@ -28,6 +28,7 @@
 * Worked extensively with Pakistani Pashto and challenging real-world speech data.
 * Experienced with LLM training, fine-tuning, embeddings, synthetic data generation, and model adaptation.
 * Build production AI systems using FastAPI, Docker, Kafka, CUDA, and GPU inference pipelines.
+* Open-source contributor to [OpenNMT/CTranslate2](https://github.com/OpenNMT/CTranslate2), with a merged native Apple Silicon Metal/MPS backend contribution ([PR #2077](https://github.com/OpenNMT/CTranslate2/pull/2077)).
 * Interested in model optimization, inference engines, Apple Silicon, GPU computing, and open-source AI infrastructure.
 * Also involved in mentoring junior engineers and interns in machine learning and deep learning.
 
@@ -148,7 +149,7 @@ The complete pipeline operates significantly faster than real time.
 
 ### CTranslate2 / Apple Silicon
 
-Working on an experimental Apple Silicon MPS backend contribution for **OpenNMT/CTranslate2**.
+Contributed the experimental native Apple Silicon Metal/MPS backend to **OpenNMT/CTranslate2**, now merged into upstream `master` ([PR #2077](https://github.com/OpenNMT/CTranslate2/pull/2077)). The backend enables GPU inference through `device="mps"` and achieved up to approximately **3x speedup** in tested Whisper and translation workloads.
 
 The work involves extending a high-performance inference library beyond its traditional CPU and CUDA execution paths and evaluating:
 
@@ -160,6 +161,14 @@ The work involves extending a high-performance inference library beyond its trad
 * Apple Silicon compatibility
 
 This work involves lower-level model execution and inference infrastructure rather than treating ML frameworks as black boxes.
+
+### Hugging Face Releases
+
+Published open-source models and datasets on [Hugging Face](https://huggingface.co/TBOGamer22), focused on Pakistani languages and low-resource AI:
+
+* **Grapheme-to-Phoneme (G2P) models:** Released NVIDIA NeMo Conformer models for [Pashto](https://huggingface.co/TBOGamer22/nemo-pashto-g2p-conformer), [Sindhi](https://huggingface.co/TBOGamer22/nemo-sindhi-g2p-conformer), [Balochi](https://huggingface.co/TBOGamer22/nemo-balochi-g2p-conformer), and [Brahvi](https://huggingface.co/TBOGamer22/nemo-brahvi-g2p-conformer).
+* **Brahvi audio dataset:** Released [BrahuiSpeech-70H](https://huggingface.co/datasets/TBOGamer22/BrahuiSpeech-70H-V2), a speech dataset for low-resource Brahvi ASR research.
+* **RUBIC-58K:** Released the [Roman Urdu coding dataset](https://huggingface.co/datasets/TBOGamer22/RUBIC-58K) with approximately 58,000 examples.
 
 ### Vibify
 
@@ -193,7 +202,7 @@ Implemented semantic music recommendation using vector embeddings and similarity
 
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2498ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
@@ -250,6 +259,10 @@ I particularly enjoy understanding how models work internally, modifying archite
 
 <a href="https://www.linkedin.com/in/talha-bin-omar-864940246/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://huggingface.co/TBOGamer22">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </a>
 
 </p>
